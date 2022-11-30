@@ -35,9 +35,5 @@ With some brush up, I can _solve problems_ with many more tools as well. And I d
 ### Latest blog posts
 
 <!-- MERELA-ORG-POSTS:START -->
-- [Testing IPv6 connectivity on AWS](https://merela.org/blog/testing-ipv6-connectivity-on-aws)
-- [Safer terminal](https://merela.org/blog/safer-terminal)
-- [Safer shell sub-commands](https://merela.org/blog/safer-shell-subcommands)
-- [Packer 101](https://merela.org/blog/packer-101)
-- [Scylla migration](https://merela.org/blog/scylladb-migration-and-rbac-setup)
+- [A](https://refinedcodes.com/blog/terragrunt_access_denied)
 <!-- MERELA-ORG-POSTS:END -->
