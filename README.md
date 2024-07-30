@@ -9,9 +9,9 @@ And a Computer Science graduate ([B.Sc. thesis](http://eprints.fri.uni-lj.si/231
 ### Latest blog posts
 
 <!-- MERELA-ORG-POSTS:START -->
+- [Rails&#39; boot sequence](https://merela.org/blog/rails_boot)
 - [Testing IPv6 connectivity on AWS](https://merela.org/blog/testing-ipv6-connectivity-on-aws)
 - [Safer terminal](https://merela.org/blog/safer-terminal)
 - [Safer shell sub-commands](https://merela.org/blog/safer-shell-subcommands)
 - [Packer 101](https://merela.org/blog/packer-101)
-- [Scylla migration](https://merela.org/blog/scylladb-migration-and-rbac-setup)
 <!-- MERELA-ORG-POSTS:END -->
